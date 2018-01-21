@@ -2,8 +2,8 @@
 #dyn.load('/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/server/libjvm.dylib')
 
 library(shiny)
-library(shinythemes)
-library(dygraphs)
+require(shinythemes)
+require(dygraphs)
 
 consolidate <- function(df,locfile,fakeline) {
   require(xlsx)
