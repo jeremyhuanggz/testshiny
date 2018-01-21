@@ -1,0 +1,11 @@
+name: testshiny
+title: testshiny
+account: jeremyhuangr
+server: shinyapps.io
+appId: 161294
+bundleId: 870772
+url: https://jeremyhuangr.shinyapps.io/testshiny/
+when: 1497672813.53834
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Global.R|serverbk.R|uibk.R

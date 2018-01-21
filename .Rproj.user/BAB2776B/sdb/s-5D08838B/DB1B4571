@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# for functions\nconsolidate <- function(df,locfile) {\n  return()\n}\n\n\ndygraph(outdata) %>% dySeries(\"XAG.USD\",color=\"black\") %>% dySeries(\"dn\",color=\"brown\") %>% dySeries(\"mavg\",color=\"green\") %>% dySeries(\"up\",color=\"blue\") %>% dyLegend(show=\"always\",width=600,hideOnMouseOut=F) %>% dyRangeSelector()\n",
+    "created" : 1497168077661.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1100525770",
+    "id" : "DB1B4571",
+    "lastKnownWriteTime" : 1497446186,
+    "last_content_update" : 1497446186893,
+    "path" : "~/Documents/hjh/rprojects/testshiny/testshiny/Global.R",
+    "project_path" : "Global.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1497668316836.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B738DD09",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1497668316836,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A6AC6249",
+        "caption" : "locxts",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=locxts&cache_key=A6AC6249",
+        "displayedObservations" : "179",
+        "environment" : "",
+        "object" : "locxts",
+        "preview" : "0",
+        "totalObservations" : "179",
+        "variables" : "1"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
